@@ -5,9 +5,9 @@ import pandas as pd
 pd.set_option('display.max_colwidth', 1000)
 
 # api key
-api_key = "K7Ntzp9FvpTaDyixgYk462ziU"
+api_key = "Enter your API key"
 # api secret key
-api_secret_key = "Enter your API key"
+api_secret_key = "Enter your API secret key"
 # access token
 access_token = "Enter your token key"
 # access token secret
